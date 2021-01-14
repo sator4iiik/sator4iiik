@@ -1,16 +1,18 @@
-### Hi there 👋
+<h5 align="center">▖ ▗ ▘ ▙ ▚ ▛ ▜ ▖▝ ▞ ▟ ▖ ▖</h5>
+<h2 align="center">@oreznikov</h2>
 
-<!--
-**sator4iiik/sator4iiik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5 align="center">Sup, my name is Oleksii its like <br/>Aleksey but on Ukrainian style.</h5>
+<p align="center">
+    <img src="https://github.com/sator4iiik/sator4iiik/blob/master/.git_pic/5DEB83A1-792E-4074-AB9F-DDF0E0F3BB30.png" height="400px">
+    <br/>
+    <img src="https://img.shields.io/aur/last-modified/oreznikov?color=orange&style=plastic" heigt="70%">
+    <p align="center">◦ easily trained ◦ creative ◦ talanted</p>
+<p align="center">
+        <a href="https://www.codewars.com/users/oreznikov" target="_blank">
+        <img src="https://www.codewars.com/users/oreznikov/badges/micro" height="40px">
+        </a>
+    <br>
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">This section is currently under development.</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
